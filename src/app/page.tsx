@@ -17,6 +17,7 @@ export default function Home() {
       </div>
       <div>
         <ul className="flex justify-between pt-5 px-4">
+        <li className="px-5 justify-center align-center text-lg hover:text-white"><a href="#contact">Contact</a></li>
           <li className="px-5 justify-center align-center text-lg hover:text-white"><a href="#summary">Summary</a></li>
           <li className="px-5 justify-center align-center text-lg hover:text-white"><a href="#resume">Resume</a></li>
           <li className="px-5 justify-center align-center text-lg hover:text-white"><a href="#projects">Projects</a></li>
@@ -24,6 +25,7 @@ export default function Home() {
       </div>
     </header>
     <div className="flex-col align-center pt-6">
+      <div>garethdavisrogers@gmail.com</div>
       <Summary resume={resume}/>
       <Resume resume={resume}/>
       <Projects/>

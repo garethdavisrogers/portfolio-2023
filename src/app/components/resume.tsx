@@ -18,7 +18,7 @@ export default function Resume(props:{resume: IResume}){
                         <div>
                             <h5 className="pt-2"><u>Achievements</u></h5>
                             <ol className="list-decimal list-inside">
-                                {job.bullets.map((b)=>{return(<li key={b}>{b}</li>)})}
+                                {job.bullets.map((b)=>{return(<li className="leading-relaxed" key={b}>{b}</li>)})}
                             </ol>
                         </div>
                     </div>)
