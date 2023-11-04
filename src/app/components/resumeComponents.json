@@ -1,0 +1,35 @@
+{
+    "summary": " I'm Gareth Rogers, an accomplished Full-Stack Software Engineer with a passion for crafting impeccable code and a dedication to a user-focused approach. My coding philosophy centers around Test Driven Development, backed by a track record of hundreds of approved pull requests. These contributions have played a significant role in enhancing and expanding the functionalities of websites and applications used by millions of people daily. Beyond technical expertise, I excel in clear and detailed code explanations, fostering excellent communication with fellow engineers, and offering guidance when needed. I thrive as a team player and wholeheartedly support my colleagues in achieving our collective goals. Before writing a single line of code, I meticulously lay out every specification and the desired endstate to ensure that the software I deliver aligns perfectly with project requirements. I'm driven by a strong desire to contribute to our team's success, always aiming for the win.",
+    "resume": [{
+            "name": "Lazlo326",
+            "title":"Junior Software Engineer",
+            "description": "A digital solution to the lottery",
+            "bullets": [
+                "Optimized user experience by creating all front-end components and interfaces for 2 surfaces: lottery game selection and lottery draw monitoring",
+                "Created integration and unit tests to ensure end-to-end optimal performance",
+                "Strengthened product security for distributed team to alter schemas to default null values",
+                "Developed front-end implementation for 3 search filters as well as a proprietary version of ChatGPT"
+            ]},
+            {"name": "Daxko",
+            "title": "Software Engineer",
+            "description": "The most popular platform for the YMCA",
+            "bullets": [
+                "Performed full-stack application development for Reclique Core, liaising with 16 web professionals responsible for American and Canadian YMCA websites",
+                "Coded new feature for YMCA’s check-in system to monitor members checked into childcare",
+                "Wrote over 100 report types using complex SQL queries; reports used to monitor P&L, membership levels, and other business-critical data",
+                "Automated report distribution by writing 5 batch files and implementing cron tasks",
+                "Developed and debugged Vue.js components for Reclique’s interface to maximize functionality",
+                "Designed 20+ REST API endpoints for both fetching data and implementing nightly crons"
+            ]},
+            {"name": "Stratum-Zero",
+            "title": "Software Engineer",
+            "description": "An information provider for first responders",
+            "bullets": [
+                "Architected an end-to-end First Responder System - including the server, database, and client",
+                "Designed all React components and their hierarchy",
+                "Created a secure, encrypted PostgreSQL database safeguarding thousands of users’ information",
+                "Built login, registration, and session cookie modules for user authentication and permissions",
+                "Added geospatial services to the system to shorten emergency response times"
+            ]}
+        ]
+}
